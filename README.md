@@ -74,4 +74,4 @@ Edit CSS custom properties in `:root` (lines 12–26) to recolor:
 
 ## License
 
-Fan tribute. Jujutsu Kaisen © Gege Akutami / Shueisha / MAPPA. Not for commercial use.
+Fan tribute. Jujutsu Kaisen © Gege Akutami / MAPPA. Not for commercial use.
